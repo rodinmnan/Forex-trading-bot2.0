@@ -1,0 +1,10 @@
+python-telegram-bot[job-queue]==20.3
+requests==2.31.0
+python-dotenv==1.0.0
+numpy==1.26.4
+pandas==2.2.1
+pytz==2024.1
+flask==3.0.2
+gunicorn==21.2.0
+talib-binary==0.4.27
+urllib3==2.2.1
